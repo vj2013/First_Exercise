@@ -1,0 +1,125 @@
+http://youtube.be/z1oE51dSR1Y
+http://www.youtube.com/watch?v=z1oE51dSR1Y&feature=youtu.be
+http://www.youtube.com/watch?v=iqTFPOAQE5o
+http://www.youtube.com/watch?v=oRhyn45o3qE
+
+
+http://www.youtube.com/watch?v=elUo3i2xkrc&feature=related
+
+http://www.fossep.org:2095/3rdparty/roundcube/?_task=mail
+http://www.lg.com/pe/soporte-producto/lg-WF-T7502TPP#
+
+
+http://www.youtube.com/watch?v=gV2C8pj5hD0&feature=youtu.be
+http://www.youtube.com/watch?v=lrh1u9RXh_I      cristiano....
+VIDEO TATI
+
+
+ADMINISTRADOR
+actualiza usuario
+
+---------------------
+SUPERVISOR
+registra clientes--RICARDO
+agrega poderes--JORDAN
+consulta pOderes clientes
+--resuelve incidencias--
+
+ABOGADO
+regitra representantes de clientes--LUCERO
+registra resultado del bastanteo
+
+PERSONAL DE AGENCIA
+consulta poder
+
+
+
+cliente
+representante
+	tip doc
+	num doc
+	nom y apel
+	cargo en la empre
+	grupo de bast
+
+
+http://practicando-vj.googlecode.com/svn/trunk/
+
+USGS---terremoto
+
+
+many-to-one
+gerencia@maxsystemnet.com
+
+
+web servecis soa serveces
+
+981102706 Andree - UPC
+997409228 cristina fasanando--camay--jeronimo--desis
+
+
+
+            //Prueba de creación de alumno vía HTTP POST
+            string postdata = "{\"Codigo\":\"1\",\"Nombre\":\"Juan\"}"; //JSON
+            byte[] data = Encoding.UTF8.GetBytes(postdata);
+            HttpWebRequest req = (HttpWebRequest)WebRequest
+                .Create("http://localhost:56506/Alumnos.svc/Alumnos");
+            req.Method = "POST";
+            req.ContentLength = data.Length;
+            req.ContentType = "application/json";
+            var reqStream = req.GetRequestStream();
+            reqStream.Write(data, 0, data.Length);
+            var res = (HttpWebResponse)req.GetResponse();
+            StreamReader reader = new StreamReader(res.GetResponseStream());
+            string alumnoJson = reader.ReadToEnd();
+            JavaScriptSerializer js = new JavaScriptSerializer();
+            Alumno alumnoCreado = js.Deserialize<Alumno>(alumnoJson);
+            Assert.AreEqual("1", alumnoCreado.Codigo);
+            Assert.AreEqual("Juan", alumnoCreado.Nombre);
+
+            //Prueba de creación de alumno vía HTTP GET
+            HttpWebRequest req2 = (HttpWebRequest)WebRequest
+                .Create("http://localhost:56506/Alumnos.svc/Alumnos/1");
+            req2.Method = "GET";
+            HttpWebResponse res2 = (HttpWebResponse)req2.GetResponse();
+            StreamReader reader2 = new StreamReader(res2.GetResponseStream());
+            string alumnoJson2 = reader2.ReadToEnd();
+            JavaScriptSerializer js2 = new JavaScriptSerializer();
+            Alumno alumnoObtenido = js.Deserialize<Alumno>(alumnoJson2);
+            Assert.AreEqual("1", alumnoObtenido.Codigo);
+            Assert.AreEqual("Juan", alumnoObtenido.Nombre);
+
+
+
+
+
+http://www.gmusica.com
+www.zyncro.com/-------optmiza tus labores en el trabajo
+www.lost-in-val-siniestra.com---cine de terror...crear tu trailer terrorifico
+
+
+microsoft trial 
+pass:FH63H-BHTD8-FVVPW-GPYCH-FKC7F
+
+
+
+FOSSEP
+
+ROUTER AMERICATEL	192.168.1.1
+SERVIDOR WEB		192.168.1...  / 10.63.1.1
+SERVIDOR BD		10.63.1.11
+ACCES POINT		10.63.1.5
+IMPRESORA		10.63.1.6
+
+878 551 303  -- BD--11
+SINTE
+
+
+FOSSEP10  JORDAN  FOSSEPVJ 		10.63.1.18  	pc10
+FOSSEPluna	  Administrativo	10.63.1.17	pc02
+FossepCarlos	  Contabilidad		10.63.1.16	pc03
+FossepGuevara	  Operaciones		10.63.1.15	pc01
+
+
+
+https://www.youtube.com/watch?v=bg9HEM-vJ-0

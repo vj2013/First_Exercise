@@ -1,0 +1,21 @@
+C:\Users\Alexander\Documents\Alexander\upc\dsd\Proyectodsd\Proyectodsd\bin\Debug\Proyectodsd.exe.config
+D:\Dropbox\Sistemas Distribuidos\Proyecto Sistema Distribuido\utiles\Proyectodsd\Proyectodsd\bin\Debug\Proyectodsd.exe.config
+D:\Dropbox\Sistemas Distribuidos\Proyecto Sistema Distribuido\utiles\Proyectodsd\Proyectodsd\bin\Debug\Proyectodsd.exe
+D:\Dropbox\Sistemas Distribuidos\Proyecto Sistema Distribuido\utiles\Proyectodsd\Proyectodsd\bin\Debug\Proyectodsd.pdb
+D:\Dropbox\Sistemas Distribuidos\Proyecto Sistema Distribuido\utiles\Proyectodsd\Proyectodsd\bin\Debug\Proyectodsd.xml
+D:\Dropbox\Sistemas Distribuidos\Proyecto Sistema Distribuido\utiles\Proyectodsd\Proyectodsd\obj\Debug\WindowsApplication1.Form1.resources
+D:\Dropbox\Sistemas Distribuidos\Proyecto Sistema Distribuido\utiles\Proyectodsd\Proyectodsd\obj\Debug\WindowsApplication1.Resources.resources
+D:\Dropbox\Sistemas Distribuidos\Proyecto Sistema Distribuido\utiles\Proyectodsd\Proyectodsd\obj\Debug\Proyectodsd.vbproj.GenerateResource.Cache
+D:\Dropbox\Sistemas Distribuidos\Proyecto Sistema Distribuido\utiles\Proyectodsd\Proyectodsd\obj\Debug\Proyectodsd.exe
+D:\Dropbox\Sistemas Distribuidos\Proyecto Sistema Distribuido\utiles\Proyectodsd\Proyectodsd\obj\Debug\Proyectodsd.xml
+D:\Dropbox\Sistemas Distribuidos\Proyecto Sistema Distribuido\utiles\Proyectodsd\Proyectodsd\obj\Debug\Proyectodsd.pdb
+C:\Users\HP\Desktop\Proyectodsd\Proyectodsd\Proyectodsd\bin\Debug\Proyectodsd.exe.config
+C:\Users\HP\Desktop\Proyectodsd\Proyectodsd\Proyectodsd\obj\Debug\Proyectodsd.exe
+C:\Users\HP\Desktop\Proyectodsd\Proyectodsd\Proyectodsd\obj\Debug\Proyectodsd.xml
+C:\Users\HP\Desktop\Proyectodsd\Proyectodsd\Proyectodsd\obj\Debug\Proyectodsd.pdb
+C:\Users\HP\Desktop\Proyectodsd\Proyectodsd\Proyectodsd\bin\Debug\Proyectodsd.exe
+C:\Users\HP\Desktop\Proyectodsd\Proyectodsd\Proyectodsd\bin\Debug\Proyectodsd.pdb
+C:\Users\HP\Desktop\Proyectodsd\Proyectodsd\Proyectodsd\bin\Debug\Proyectodsd.xml
+C:\Users\HP\Desktop\Proyectodsd\Proyectodsd\Proyectodsd\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\HP\Desktop\Proyectodsd\Proyectodsd\Proyectodsd\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\HP\Desktop\Proyectodsd\Proyectodsd\Proyectodsd\obj\Debug\Proyectodsd.vbproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+DAO...es que deseo q se realice en el BD..invocando su dominio
+Conex....Conexion a ls BD
+Alumnos svc...invoca DAO y los Mantenimientos
+IAlumnos...Post or Get ( Mantenimientos)
+
+
+asp.net mvc web  application with wcf service  application

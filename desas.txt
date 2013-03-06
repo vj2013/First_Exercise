@@ -1,0 +1,27 @@
+ventaja
+Independencia interfaz de programacion IDL
+Estandar---capaz de comunicar diversos lenguajes"RMI solo para JAVa"
+flexibilidad
+portabilidad
+Desventaja.
+intercambio de pocos datos
+interoperables
+
+
+WCF: es bien estandar
+SErvicio Http REstful...es menos infiltrado que el WS soap
+
+CREAR USUARIO
+
+
+TEMAS FORO2
+UDDI
+WS DISCOVERY
+
+
+---descuento de 1500 judicial--
+
+sector publico
+
+994137401---karina cpmp
+220
